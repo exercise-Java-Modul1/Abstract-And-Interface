@@ -13,7 +13,7 @@ public class MainComparableCircle {
         circles[0].compareTo();
         circles[1].compareTo();
         circles[2].compareTo();
-        Arrays.sort(circles);
+
 
     }
 }
